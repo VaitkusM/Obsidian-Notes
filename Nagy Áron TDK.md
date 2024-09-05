@@ -3,7 +3,10 @@
 
 
 ``` math
-\begin{align}\Delta f &= 0 \\ f &= f_0 \end{align}
+\begin{align}
+\Delta f &= 0 \\ 
+f &= f_0 
+\end{align}
 ```
 
 
