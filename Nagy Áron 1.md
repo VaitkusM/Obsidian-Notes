@@ -1,5 +1,5 @@
 - Monte Carlo PDE
 
 $$
-- \Delta f = 0
+\Delta f = 0
 $$
