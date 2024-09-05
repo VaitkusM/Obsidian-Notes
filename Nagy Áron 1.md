@@ -2,7 +2,7 @@
 
 - Monte Carlo PDE
 - Laplace egyenlet:
-- rfdf
+- 
 
 $$
 \Delta f = 0 \
