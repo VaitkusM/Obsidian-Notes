@@ -3,7 +3,7 @@
 
 
 ``` math
-\displaylines{\Delta f = 0 \\ f=f_0}
+\begin{align}\Delta f &= 0 \\ f &= f_0 \end{align}
 ```
 
 
