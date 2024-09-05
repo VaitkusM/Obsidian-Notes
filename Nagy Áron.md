@@ -1,3 +1,5 @@
+# Nagy Áron
+
 - Monte Carlo PDE
 
 $$
